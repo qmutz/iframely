@@ -926,9 +926,10 @@ http-errors@~1.8.0:
     statuses ">= 1.5.0 < 2"
     toidentifier "1.0.0"
 
-http-parser-js@itteco/http-parser-js#magicode-fix-22:
-  version "0.4.10"
-  resolved "https://codeload.github.com/itteco/http-parser-js/tar.gz/18b6b19b41fa3dd5d032fc2ffc58ac909da0a86e"
+http-parser-js@0.5.8:
+  version "0.5.8"
+  resolved "https://registry.yarnpkg.com/http-parser-js/-/http-parser-js-0.5.8.tgz#af23090d9ac4e24573de6f6aecc9d84a48bf20e3"
+  integrity sha512-SGeBX54F94Wgu5RH3X5jsDtf4eHyRogWX1XGT3b4HuW3tQPM4AaBzoUji/4AAJNXCEOWZ5O0DgZmJw1947gD5Q==
 
 http-signature@~1.2.0:
   version "1.2.0"

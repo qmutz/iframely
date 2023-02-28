@@ -27,7 +27,7 @@
         "express": "^4.16.3",
         "graceful-cluster": "0.0.3",
         "htmlparser2": "3.9.2",
-        "http-parser-js": "itteco/http-parser-js#magicode-fix-22",
+        "http-parser-js": "0.5.8",
         "iconv-lite": "0.4.17",
         "iltorb": "^2.4.3",
         "jslint": "^0.12.1",
