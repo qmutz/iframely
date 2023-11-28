@@ -36,7 +36,7 @@
         "moment": "2.19.3",
         "node-cache": "1.*",
         "parse-iso-duration": "1.0.0",
-        "probe-image-size": "^5.0.0",
+        "probe-image-size": "^6.0.0",
         "readabilitySAX": "1.6.1",
         "redis": "2.7.1",
         "request": "^2.88.0",
