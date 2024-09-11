@@ -24,7 +24,7 @@
         "chokidar": "^3.3.1",
         "ejs": "2.5.7",
         "entities": "1.1.1",
-        "express": "^4.16.3",
+        "express": "^4.20.0",
         "graceful-cluster": "0.0.3",
         "htmlparser2": "3.9.2",
         "http-parser-js": "itteco/http-parser-js#magicode-fix-22",
@@ -42,7 +42,7 @@
         "request": "^2.88.0",
         "sax": "1.2.2",
         "semver": "^6.3.0",
-        "send": "0.16.1",
+        "send": "0.19.0",
         "underscore": "1.8.3"
     },
     "devDependencies": {
